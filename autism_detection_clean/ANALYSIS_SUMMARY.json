@@ -1,0 +1,94 @@
+{
+  "project": {
+    "name": "Autism Spectrum Disorder Detection from Video Motion Analysis",
+    "date": "2026-04-17 21:11:04",
+    "dataset_size": 333,
+    "autism_cases": 140,
+    "normal_cases": 193,
+    "total_features": 146,
+    "baseline_features": 136,
+    "novel_features": 10
+  },
+  "model_performance": {
+    "final_accuracy": 90.99,
+    "final_accuracy_std": 1.44,
+    "baseline_accuracy": 90.08,
+    "accuracy_improvement": 0.91,
+    "per_fold_accuracies": [
+      0.8805970149253731,
+      0.8208955223880597,
+      0.9402985074626866,
+      0.8333333333333334,
+      0.8181818181818182
+    ]
+  },
+  "ablation_study": {
+    "baseline_136": 86.16915422885573,
+    "without_symmetry": 85.8661239258254,
+    "without_entropy": 85.27363184079603,
+    "without_jerk": 86.77069199457259,
+    "full_model": 85.8661239258254,
+    "symmetry_impact": 0.0,
+    "entropy_impact": 0.5924920850293836,
+    "jerk_impact": -0.9045680687471802
+  },
+  "feature_importance": {
+    "novel_in_top_20": 4,
+    "novel_in_top_30": 5,
+    "top_3_features": [
+      {
+        "rank": 1,
+        "index": 134,
+        "name": "Motion_6",
+        "importance": 0.08950107898637592,
+        "std_dev": 0.0035865019686561195,
+        "is_novel": false
+      },
+      {
+        "rank": 2,
+        "index": 135,
+        "name": "Motion_7",
+        "importance": 0.08203708497791289,
+        "std_dev": 0.0018084371152073601,
+        "is_novel": false
+      },
+      {
+        "rank": 3,
+        "index": 131,
+        "name": "Motion_3",
+        "importance": 0.05943202259189535,
+        "std_dev": 0.0038656554674648637,
+        "is_novel": false
+      }
+    ],
+    "feature_group_importance": {
+      "lstm": 0.46267400138831327,
+      "motion": 0.386888011542623,
+      "symmetry": 0.002870550286434428,
+      "entropy": 0.13137211635379464,
+      "jerk": 0.016195320428834665,
+      "total_novel": 0.15043798706906375
+    }
+  },
+  "error_analysis": {
+    "total_errors": 45,
+    "false_positives": 12,
+    "false_negatives": 33,
+    "sensitivity": 76.42857142857142,
+    "specificity": 93.78238341968913
+  },
+  "statistical_significance": {
+    "mcnemar_p_value": 1.0,
+    "significant_at_0.05": false,
+    "baseline_ci": [
+      0.8239589886654827,
+      0.8974486458067118
+    ],
+    "full_ci": [
+      0.820656941002298,
+      0.8948131820750634
+    ],
+    "improvement_absolute": -0.30030030030030463,
+    "improvement_relative": -34.72222222222272
+  }
+}

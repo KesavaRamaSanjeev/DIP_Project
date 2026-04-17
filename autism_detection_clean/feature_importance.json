@@ -1,0 +1,1278 @@
+{
+  "all_features": [
+    {
+      "index": 0,
+      "name": "LSTM_0",
+      "importance": 0.004056211657995089,
+      "std_dev": 0.0012503849658075641,
+      "is_novel": false
+    },
+    {
+      "index": 1,
+      "name": "LSTM_1",
+      "importance": 0.0025761716490500723,
+      "std_dev": 0.0007250328022635823,
+      "is_novel": false
+    },
+    {
+      "index": 2,
+      "name": "LSTM_2",
+      "importance": 0.004170892275726203,
+      "std_dev": 0.0005877900703900795,
+      "is_novel": false
+    },
+    {
+      "index": 3,
+      "name": "LSTM_3",
+      "importance": 0.00274052751204931,
+      "std_dev": 0.0009712997451319645,
+      "is_novel": false
+    },
+    {
+      "index": 4,
+      "name": "LSTM_4",
+      "importance": 0.005380583905336888,
+      "std_dev": 0.0017988649451166259,
+      "is_novel": false
+    },
+    {
+      "index": 5,
+      "name": "LSTM_5",
+      "importance": 0.0030718992918429603,
+      "std_dev": 0.0004960849384208995,
+      "is_novel": false
+    },
+    {
+      "index": 6,
+      "name": "LSTM_6",
+      "importance": 0.003283148866323633,
+      "std_dev": 0.00034291939047671884,
+      "is_novel": false
+    },
+    {
+      "index": 7,
+      "name": "LSTM_7",
+      "importance": 0.002109419353894835,
+      "std_dev": 0.0004342029327998092,
+      "is_novel": false
+    },
+    {
+      "index": 8,
+      "name": "LSTM_8",
+      "importance": 0.005341614036934765,
+      "std_dev": 0.0014044583666888034,
+      "is_novel": false
+    },
+    {
+      "index": 9,
+      "name": "LSTM_9",
+      "importance": 0.0026103671120147644,
+      "std_dev": 0.0006738948409469866,
+      "is_novel": false
+    },
+    {
+      "index": 10,
+      "name": "LSTM_10",
+      "importance": 0.002048133804620143,
+      "std_dev": 0.00017528761276526663,
+      "is_novel": false
+    },
+    {
+      "index": 11,
+      "name": "LSTM_11",
+      "importance": 0.002150570012739655,
+      "std_dev": 0.0005955494322620125,
+      "is_novel": false
+    },
+    {
+      "index": 12,
+      "name": "LSTM_12",
+      "importance": 0.0023431011886980695,
+      "std_dev": 0.0006733324058800575,
+      "is_novel": false
+    },
+    {
+      "index": 13,
+      "name": "LSTM_13",
+      "importance": 0.017027639007065727,
+      "std_dev": 0.004471962238387482,
+      "is_novel": false
+    },
+    {
+      "index": 14,
+      "name": "LSTM_14",
+      "importance": 0.002487601780939884,
+      "std_dev": 0.0005267468233414659,
+      "is_novel": false
+    },
+    {
+      "index": 15,
+      "name": "LSTM_15",
+      "importance": 0.0029325798387264826,
+      "std_dev": 0.0008211799501127509,
+      "is_novel": false
+    },
+    {
+      "index": 16,
+      "name": "LSTM_16",
+      "importance": 0.004046623549761213,
+      "std_dev": 0.0009885014000069955,
+      "is_novel": false
+    },
+    {
+      "index": 17,
+      "name": "LSTM_17",
+      "importance": 0.0034955926223090594,
+      "std_dev": 0.0008465535496057963,
+      "is_novel": false
+    },
+    {
+      "index": 18,
+      "name": "LSTM_18",
+      "importance": 0.004017321028807857,
+      "std_dev": 0.0009096929604307212,
+      "is_novel": false
+    },
+    {
+      "index": 19,
+      "name": "LSTM_19",
+      "importance": 0.004094946568126965,
+      "std_dev": 0.0008898291421160937,
+      "is_novel": false
+    },
+    {
+      "index": 20,
+      "name": "LSTM_20",
+      "importance": 0.003068452535092987,
+      "std_dev": 0.000962563376682387,
+      "is_novel": false
+    },
+    {
+      "index": 21,
+      "name": "LSTM_21",
+      "importance": 0.0034421255695138674,
+      "std_dev": 0.0011967868550845466,
+      "is_novel": false
+    },
+    {
+      "index": 22,
+      "name": "LSTM_22",
+      "importance": 0.0037471608309667366,
+      "std_dev": 0.00079357462634242,
+      "is_novel": false
+    },
+    {
+      "index": 23,
+      "name": "LSTM_23",
+      "importance": 0.006792037847974636,
+      "std_dev": 0.0011977128545680622,
+      "is_novel": false
+    },
+    {
+      "index": 24,
+      "name": "LSTM_24",
+      "importance": 0.005938156672728337,
+      "std_dev": 0.0008357228656513557,
+      "is_novel": false
+    },
+    {
+      "index": 25,
+      "name": "LSTM_25",
+      "importance": 0.003625636467637724,
+      "std_dev": 0.0001743598144773305,
+      "is_novel": false
+    },
+    {
+      "index": 26,
+      "name": "LSTM_26",
+      "importance": 0.00568582644652602,
+      "std_dev": 0.00148184430726132,
+      "is_novel": false
+    },
+    {
+      "index": 27,
+      "name": "LSTM_27",
+      "importance": 0.004273952970515647,
+      "std_dev": 0.0009432544916165677,
+      "is_novel": false
+    },
+    {
+      "index": 28,
+      "name": "LSTM_28",
+      "importance": 0.0024627978440414757,
+      "std_dev": 0.00042824467453972663,
+      "is_novel": false
+    },
+    {
+      "index": 29,
+      "name": "LSTM_29",
+      "importance": 0.002057712778177183,
+      "std_dev": 0.00023235387584328324,
+      "is_novel": false
+    },
+    {
+      "index": 30,
+      "name": "LSTM_30",
+      "importance": 0.003955214389545054,
+      "std_dev": 0.0018955631862909762,
+      "is_novel": false
+    },
+    {
+      "index": 31,
+      "name": "LSTM_31",
+      "importance": 0.00852105620492001,
+      "std_dev": 0.002824018409506617,
+      "is_novel": false
+    },
+    {
+      "index": 32,
+      "name": "LSTM_32",
+      "importance": 0.0029950185013247945,
+      "std_dev": 0.0006262633808379696,
+      "is_novel": false
+    },
+    {
+      "index": 33,
+      "name": "LSTM_33",
+      "importance": 0.0022038422676099153,
+      "std_dev": 0.00021665352723091485,
+      "is_novel": false
+    },
+    {
+      "index": 34,
+      "name": "LSTM_34",
+      "importance": 0.002479118521659989,
+      "std_dev": 0.0002649390602008339,
+      "is_novel": false
+    },
+    {
+      "index": 35,
+      "name": "LSTM_35",
+      "importance": 0.002940549968408112,
+      "std_dev": 0.0003196991636329451,
+      "is_novel": false
+    },
+    {
+      "index": 36,
+      "name": "LSTM_36",
+      "importance": 0.0018128193204305677,
+      "std_dev": 0.0005291331265807385,
+      "is_novel": false
+    },
+    {
+      "index": 37,
+      "name": "LSTM_37",
+      "importance": 0.0021352652278692945,
+      "std_dev": 0.00027555405982062535,
+      "is_novel": false
+    },
+    {
+      "index": 38,
+      "name": "LSTM_38",
+      "importance": 0.003946729851375478,
+      "std_dev": 0.001003241720266563,
+      "is_novel": false
+    },
+    {
+      "index": 39,
+      "name": "LSTM_39",
+      "importance": 0.0032027223296213457,
+      "std_dev": 0.0012007252082774638,
+      "is_novel": false
+    },
+    {
+      "index": 40,
+      "name": "LSTM_40",
+      "importance": 0.002934703058954589,
+      "std_dev": 0.0014967520903798803,
+      "is_novel": false
+    },
+    {
+      "index": 41,
+      "name": "LSTM_41",
+      "importance": 0.0019166827450057215,
+      "std_dev": 0.0003942075430164866,
+      "is_novel": false
+    },
+    {
+      "index": 42,
+      "name": "LSTM_42",
+      "importance": 0.0033430477590955083,
+      "std_dev": 0.0012973118079273767,
+      "is_novel": false
+    },
+    {
+      "index": 43,
+      "name": "LSTM_43",
+      "importance": 0.0024933457895634837,
+      "std_dev": 0.00042435075926945193,
+      "is_novel": false
+    },
+    {
+      "index": 44,
+      "name": "LSTM_44",
+      "importance": 0.002616704632575012,
+      "std_dev": 0.00038018292310160634,
+      "is_novel": false
+    },
+    {
+      "index": 45,
+      "name": "LSTM_45",
+      "importance": 0.003400006130577155,
+      "std_dev": 0.0008660529527967825,
+      "is_novel": false
+    },
+    {
+      "index": 46,
+      "name": "LSTM_46",
+      "importance": 0.002774024085679135,
+      "std_dev": 0.0006962798792977692,
+      "is_novel": false
+    },
+    {
+      "index": 47,
+      "name": "LSTM_47",
+      "importance": 0.003369967218074916,
+      "std_dev": 0.0010651445146133665,
+      "is_novel": false
+    },
+    {
+      "index": 48,
+      "name": "LSTM_48",
+      "importance": 0.005974495088864098,
+      "std_dev": 0.0009368300178659744,
+      "is_novel": false
+    },
+    {
+      "index": 49,
+      "name": "LSTM_49",
+      "importance": 0.0034667354700912687,
+      "std_dev": 0.0007331590824258658,
+      "is_novel": false
+    },
+    {
+      "index": 50,
+      "name": "LSTM_50",
+      "importance": 0.002484839290381153,
+      "std_dev": 0.00033789203867696675,
+      "is_novel": false
+    },
+    {
+      "index": 51,
+      "name": "LSTM_51",
+      "importance": 0.0057292993222161515,
+      "std_dev": 0.001677150749968929,
+      "is_novel": false
+    },
+    {
+      "index": 52,
+      "name": "LSTM_52",
+      "importance": 0.003323520881640024,
+      "std_dev": 0.0008262112377201617,
+      "is_novel": false
+    },
+    {
+      "index": 53,
+      "name": "LSTM_53",
+      "importance": 0.0033735315589637402,
+      "std_dev": 0.00037963174878920155,
+      "is_novel": false
+    },
+    {
+      "index": 54,
+      "name": "LSTM_54",
+      "importance": 0.002335537865582132,
+      "std_dev": 0.0005643814476042742,
+      "is_novel": false
+    },
+    {
+      "index": 55,
+      "name": "LSTM_55",
+      "importance": 0.003393988520421166,
+      "std_dev": 0.0010665773762210495,
+      "is_novel": false
+    },
+    {
+      "index": 56,
+      "name": "LSTM_56",
+      "importance": 0.0024797632507403064,
+      "std_dev": 0.00044431598762952317,
+      "is_novel": false
+    },
+    {
+      "index": 57,
+      "name": "LSTM_57",
+      "importance": 0.0022586797082184197,
+      "std_dev": 0.0007459313089027461,
+      "is_novel": false
+    },
+    {
+      "index": 58,
+      "name": "LSTM_58",
+      "importance": 0.004604870442978028,
+      "std_dev": 0.001667537783628002,
+      "is_novel": false
+    },
+    {
+      "index": 59,
+      "name": "LSTM_59",
+      "importance": 0.0030178932470915493,
+      "std_dev": 0.0006169488054849023,
+      "is_novel": false
+    },
+    {
+      "index": 60,
+      "name": "LSTM_60",
+      "importance": 0.003150404772307409,
+      "std_dev": 0.0013368326816778633,
+      "is_novel": false
+    },
+    {
+      "index": 61,
+      "name": "LSTM_61",
+      "importance": 0.0017978192545592038,
+      "std_dev": 0.0007334901209637459,
+      "is_novel": false
+    },
+    {
+      "index": 62,
+      "name": "LSTM_62",
+      "importance": 0.0028926698297241913,
+      "std_dev": 0.00011194599757769723,
+      "is_novel": false
+    },
+    {
+      "index": 63,
+      "name": "LSTM_63",
+      "importance": 0.0025891077018302825,
+      "std_dev": 0.0005153100891566367,
+      "is_novel": false
+    },
+    {
+      "index": 64,
+      "name": "LSTM_64",
+      "importance": 0.002478730602814437,
+      "std_dev": 0.0012089089247975305,
+      "is_novel": false
+    },
+    {
+      "index": 65,
+      "name": "LSTM_65",
+      "importance": 0.006193023465389644,
+      "std_dev": 0.0011405584154743028,
+      "is_novel": false
+    },
+    {
+      "index": 66,
+      "name": "LSTM_66",
+      "importance": 0.0037903740275086416,
+      "std_dev": 0.0012101065553884551,
+      "is_novel": false
+    },
+    {
+      "index": 67,
+      "name": "LSTM_67",
+      "importance": 0.003914135319289061,
+      "std_dev": 0.0004547377454182465,
+      "is_novel": false
+    },
+    {
+      "index": 68,
+      "name": "LSTM_68",
+      "importance": 0.0025381262412106525,
+      "std_dev": 0.0008437943646201038,
+      "is_novel": false
+    },
+    {
+      "index": 69,
+      "name": "LSTM_69",
+      "importance": 0.003394840196930658,
+      "std_dev": 0.0008234636415088212,
+      "is_novel": false
+    },
+    {
+      "index": 70,
+      "name": "LSTM_70",
+      "importance": 0.002597132982511046,
+      "std_dev": 0.00039596425700574167,
+      "is_novel": false
+    },
+    {
+      "index": 71,
+      "name": "LSTM_71",
+      "importance": 0.0021075230894262195,
+      "std_dev": 0.0003762433712480308,
+      "is_novel": false
+    },
+    {
+      "index": 72,
+      "name": "LSTM_72",
+      "importance": 0.005294959970826998,
+      "std_dev": 0.0010784221350591434,
+      "is_novel": false
+    },
+    {
+      "index": 73,
+      "name": "LSTM_73",
+      "importance": 0.0039037143027032483,
+      "std_dev": 0.001712237891062394,
+      "is_novel": false
+    },
+    {
+      "index": 74,
+      "name": "LSTM_74",
+      "importance": 0.003938644809572581,
+      "std_dev": 0.0010368304056048484,
+      "is_novel": false
+    },
+    {
+      "index": 75,
+      "name": "LSTM_75",
+      "importance": 0.0024044322864705003,
+      "std_dev": 0.00020243048797023616,
+      "is_novel": false
+    },
+    {
+      "index": 76,
+      "name": "LSTM_76",
+      "importance": 0.0037705579951043885,
+      "std_dev": 0.0010573102620795565,
+      "is_novel": false
+    },
+    {
+      "index": 77,
+      "name": "LSTM_77",
+      "importance": 0.0029428519658497355,
+      "std_dev": 0.0005752674164045575,
+      "is_novel": false
+    },
+    {
+      "index": 78,
+      "name": "LSTM_78",
+      "importance": 0.0034145019926157755,
+      "std_dev": 0.0012021449515453484,
+      "is_novel": false
+    },
+    {
+      "index": 79,
+      "name": "LSTM_79",
+      "importance": 0.002157247912848381,
+      "std_dev": 0.0005391632248413691,
+      "is_novel": false
+    },
+    {
+      "index": 80,
+      "name": "LSTM_80",
+      "importance": 0.0027710885997271535,
+      "std_dev": 0.0001973028563358544,
+      "is_novel": false
+    },
+    {
+      "index": 81,
+      "name": "LSTM_81",
+      "importance": 0.006621051389117967,
+      "std_dev": 0.0014512102124815138,
+      "is_novel": false
+    },
+    {
+      "index": 82,
+      "name": "LSTM_82",
+      "importance": 0.004726151480440824,
+      "std_dev": 0.00046352926758486167,
+      "is_novel": false
+    },
+    {
+      "index": 83,
+      "name": "LSTM_83",
+      "importance": 0.0037024251118449652,
+      "std_dev": 0.0011978973645443748,
+      "is_novel": false
+    },
+    {
+      "index": 84,
+      "name": "LSTM_84",
+      "importance": 0.0032822414909029207,
+      "std_dev": 0.0008462057594088897,
+      "is_novel": false
+    },
+    {
+      "index": 85,
+      "name": "LSTM_85",
+      "importance": 0.002064283677766251,
+      "std_dev": 0.0004916090450967608,
+      "is_novel": false
+    },
+    {
+      "index": 86,
+      "name": "LSTM_86",
+      "importance": 0.00467897573517239,
+      "std_dev": 0.000608247478451701,
+      "is_novel": false
+    },
+    {
+      "index": 87,
+      "name": "LSTM_87",
+      "importance": 0.0030966380351735894,
+      "std_dev": 0.0006930687477272299,
+      "is_novel": false
+    },
+    {
+      "index": 88,
+      "name": "LSTM_88",
+      "importance": 0.0024159424106678243,
+      "std_dev": 0.000650826061760367,
+      "is_novel": false
+    },
+    {
+      "index": 89,
+      "name": "LSTM_89",
+      "importance": 0.003068632466375,
+      "std_dev": 0.000966695696367969,
+      "is_novel": false
+    },
+    {
+      "index": 90,
+      "name": "LSTM_90",
+      "importance": 0.0033543196483675603,
+      "std_dev": 0.0002923268304590047,
+      "is_novel": false
+    },
+    {
+      "index": 91,
+      "name": "LSTM_91",
+      "importance": 0.0077555703675002115,
+      "std_dev": 0.001545577803002815,
+      "is_novel": false
+    },
+    {
+      "index": 92,
+      "name": "LSTM_92",
+      "importance": 0.0027602410210788666,
+      "std_dev": 0.0007777527470907661,
+      "is_novel": false
+    },
+    {
+      "index": 93,
+      "name": "LSTM_93",
+      "importance": 0.004142174472335416,
+      "std_dev": 0.0017596978139766434,
+      "is_novel": false
+    },
+    {
+      "index": 94,
+      "name": "LSTM_94",
+      "importance": 0.002053160516070214,
+      "std_dev": 0.0006614928632357556,
+      "is_novel": false
+    },
+    {
+      "index": 95,
+      "name": "LSTM_95",
+      "importance": 0.0075988119593643905,
+      "std_dev": 0.0016267319452597604,
+      "is_novel": false
+    },
+    {
+      "index": 96,
+      "name": "LSTM_96",
+      "importance": 0.003256397262849255,
+      "std_dev": 0.0007522475110004709,
+      "is_novel": false
+    },
+    {
+      "index": 97,
+      "name": "LSTM_97",
+      "importance": 0.0038890812434689004,
+      "std_dev": 0.000792996807197989,
+      "is_novel": false
+    },
+    {
+      "index": 98,
+      "name": "LSTM_98",
+      "importance": 0.0032357210844673454,
+      "std_dev": 0.00038375243341895866,
+      "is_novel": false
+    },
+    {
+      "index": 99,
+      "name": "LSTM_99",
+      "importance": 0.004460070563553037,
+      "std_dev": 0.00137030824378015,
+      "is_novel": false
+    },
+    {
+      "index": 100,
+      "name": "LSTM_100",
+      "importance": 0.0032560585254254293,
+      "std_dev": 0.0007797653838873933,
+      "is_novel": false
+    },
+    {
+      "index": 101,
+      "name": "LSTM_101",
+      "importance": 0.002183295266967857,
+      "std_dev": 0.0003653804011356317,
+      "is_novel": false
+    },
+    {
+      "index": 102,
+      "name": "LSTM_102",
+      "importance": 0.0040625231997778125,
+      "std_dev": 0.0007574586327228755,
+      "is_novel": false
+    },
+    {
+      "index": 103,
+      "name": "LSTM_103",
+      "importance": 0.0026612363204826447,
+      "std_dev": 0.0008126932202009885,
+      "is_novel": false
+    },
+    {
+      "index": 104,
+      "name": "LSTM_104",
+      "importance": 0.0030112252172481207,
+      "std_dev": 0.0002787898636675563,
+      "is_novel": false
+    },
+    {
+      "index": 105,
+      "name": "LSTM_105",
+      "importance": 0.004285037020680513,
+      "std_dev": 0.0005299772387187697,
+      "is_novel": false
+    },
+    {
+      "index": 106,
+      "name": "LSTM_106",
+      "importance": 0.002364202884613658,
+      "std_dev": 0.0008269135473910335,
+      "is_novel": false
+    },
+    {
+      "index": 107,
+      "name": "LSTM_107",
+      "importance": 0.0032080794094120598,
+      "std_dev": 0.00042465122547381785,
+      "is_novel": false
+    },
+    {
+      "index": 108,
+      "name": "LSTM_108",
+      "importance": 0.0037833755386653947,
+      "std_dev": 0.0003940900522368276,
+      "is_novel": false
+    },
+    {
+      "index": 109,
+      "name": "LSTM_109",
+      "importance": 0.004277428628546703,
+      "std_dev": 0.001499715872529483,
+      "is_novel": false
+    },
+    {
+      "index": 110,
+      "name": "LSTM_110",
+      "importance": 0.007186838148056667,
+      "std_dev": 0.001131008846843585,
+      "is_novel": false
+    },
+    {
+      "index": 111,
+      "name": "LSTM_111",
+      "importance": 0.0041679151023841085,
+      "std_dev": 0.0006280769863752075,
+      "is_novel": false
+    },
+    {
+      "index": 112,
+      "name": "LSTM_112",
+      "importance": 0.008915462479209262,
+      "std_dev": 0.0023815285944110455,
+      "is_novel": false
+    },
+    {
+      "index": 113,
+      "name": "LSTM_113",
+      "importance": 0.002436891644038329,
+      "std_dev": 0.0003622913994810799,
+      "is_novel": false
+    },
+    {
+      "index": 114,
+      "name": "LSTM_114",
+      "importance": 0.002390907811520344,
+      "std_dev": 0.0005178327241598543,
+      "is_novel": false
+    },
+    {
+      "index": 115,
+      "name": "LSTM_115",
+      "importance": 0.0049006440663921964,
+      "std_dev": 0.0007774638063428937,
+      "is_novel": false
+    },
+    {
+      "index": 116,
+      "name": "LSTM_116",
+      "importance": 0.0017222868935419093,
+      "std_dev": 0.00029502970247068696,
+      "is_novel": false
+    },
+    {
+      "index": 117,
+      "name": "LSTM_117",
+      "importance": 0.0022186672116230677,
+      "std_dev": 0.0003167139267864715,
+      "is_novel": false
+    },
+    {
+      "index": 118,
+      "name": "LSTM_118",
+      "importance": 0.0033767772776763087,
+      "std_dev": 0.0007845928938418277,
+      "is_novel": false
+    },
+    {
+      "index": 119,
+      "name": "LSTM_119",
+      "importance": 0.002696946520099796,
+      "std_dev": 0.0006657252105846811,
+      "is_novel": false
+    },
+    {
+      "index": 120,
+      "name": "LSTM_120",
+      "importance": 0.0037036402569728703,
+      "std_dev": 0.0007537692780233211,
+      "is_novel": false
+    },
+    {
+      "index": 121,
+      "name": "LSTM_121",
+      "importance": 0.0019917592864241275,
+      "std_dev": 0.0004405528763098119,
+      "is_novel": false
+    },
+    {
+      "index": 122,
+      "name": "LSTM_122",
+      "importance": 0.0030095023543131746,
+      "std_dev": 0.00034848500892615365,
+      "is_novel": false
+    },
+    {
+      "index": 123,
+      "name": "LSTM_123",
+      "importance": 0.002360025532088863,
+      "std_dev": 0.0003960419258686943,
+      "is_novel": false
+    },
+    {
+      "index": 124,
+      "name": "LSTM_124",
+      "importance": 0.002704572061651728,
+      "std_dev": 0.0003943368347949661,
+      "is_novel": false
+    },
+    {
+      "index": 125,
+      "name": "LSTM_125",
+      "importance": 0.002510681784001761,
+      "std_dev": 0.0005097578528755492,
+      "is_novel": false
+    },
+    {
+      "index": 126,
+      "name": "LSTM_126",
+      "importance": 0.004726701819054014,
+      "std_dev": 0.0015238281555457643,
+      "is_novel": false
+    },
+    {
+      "index": 127,
+      "name": "LSTM_127",
+      "importance": 0.003794764196091107,
+      "std_dev": 0.000795318725884073,
+      "is_novel": false
+    },
+    {
+      "index": 128,
+      "name": "Motion_0",
+      "importance": 0.058261430249225934,
+      "std_dev": 0.0026638221423793155,
+      "is_novel": false
+    },
+    {
+      "index": 129,
+      "name": "Motion_1",
+      "importance": 0.017515077659490338,
+      "std_dev": 0.0023491067757570256,
+      "is_novel": false
+    },
+    {
+      "index": 130,
+      "name": "Motion_2",
+      "importance": 0.03906810285529247,
+      "std_dev": 0.0033447520787585287,
+      "is_novel": false
+    },
+    {
+      "index": 131,
+      "name": "Motion_3",
+      "importance": 0.05943202259189535,
+      "std_dev": 0.0038656554674648637,
+      "is_novel": false
+    },
+    {
+      "index": 132,
+      "name": "Motion_4",
+      "importance": 0.02473489266794949,
+      "std_dev": 0.0038008066877898237,
+      "is_novel": false
+    },
+    {
+      "index": 133,
+      "name": "Motion_5",
+      "importance": 0.016338321554480582,
+      "std_dev": 0.003988049871172379,
+      "is_novel": false
+    },
+    {
+      "index": 134,
+      "name": "Motion_6",
+      "importance": 0.08950107898637592,
+      "std_dev": 0.0035865019686561195,
+      "is_novel": false
+    },
+    {
+      "index": 135,
+      "name": "Motion_7",
+      "importance": 0.08203708497791289,
+      "std_dev": 0.0018084371152073601,
+      "is_novel": false
+    },
+    {
+      "index": 136,
+      "name": "Bilateral_Symmetry",
+      "importance": 0.002870550286434428,
+      "std_dev": 0.00023389614100135855,
+      "is_novel": true
+    },
+    {
+      "index": 137,
+      "name": "Motion_Entropy_0",
+      "importance": 0.031228240110935484,
+      "std_dev": 0.008034979623477306,
+      "is_novel": true
+    },
+    {
+      "index": 138,
+      "name": "Motion_Entropy_1",
+      "importance": 0.030850848542452226,
+      "std_dev": 0.0025142167653546556,
+      "is_novel": true
+    },
+    {
+      "index": 139,
+      "name": "Motion_Entropy_2",
+      "importance": 0.037804792012551026,
+      "std_dev": 0.0029109483706786124,
+      "is_novel": true
+    },
+    {
+      "index": 140,
+      "name": "Motion_Entropy_3",
+      "importance": 0.03148823568785593,
+      "std_dev": 0.005929261184283443,
+      "is_novel": true
+    },
+    {
+      "index": 141,
+      "name": "Jerk_Analysis_0",
+      "importance": 0.005328786260058965,
+      "std_dev": 0.002021343222078073,
+      "is_novel": true
+    },
+    {
+      "index": 142,
+      "name": "Jerk_Analysis_1",
+      "importance": 0.0032176961137859684,
+      "std_dev": 0.000809425480833212,
+      "is_novel": true
+    },
+    {
+      "index": 143,
+      "name": "Jerk_Analysis_2",
+      "importance": 0.0038276612275958298,
+      "std_dev": 0.0008455304734638865,
+      "is_novel": true
+    },
+    {
+      "index": 144,
+      "name": "Jerk_Analysis_3",
+      "importance": 0.0029962327262229565,
+      "std_dev": 0.0005009573785134499,
+      "is_novel": true
+    },
+    {
+      "index": 145,
+      "name": "Jerk_Analysis_4",
+      "importance": 0.0008249441011709463,
+      "std_dev": 0.0004235855013540989,
+      "is_novel": true
+    }
+  ],
+  "top_30": [
+    {
+      "rank": 1,
+      "index": 134,
+      "name": "Motion_6",
+      "importance": 0.08950107898637592,
+      "std_dev": 0.0035865019686561195,
+      "is_novel": false
+    },
+    {
+      "rank": 2,
+      "index": 135,
+      "name": "Motion_7",
+      "importance": 0.08203708497791289,
+      "std_dev": 0.0018084371152073601,
+      "is_novel": false
+    },
+    {
+      "rank": 3,
+      "index": 131,
+      "name": "Motion_3",
+      "importance": 0.05943202259189535,
+      "std_dev": 0.0038656554674648637,
+      "is_novel": false
+    },
+    {
+      "rank": 4,
+      "index": 128,
+      "name": "Motion_0",
+      "importance": 0.058261430249225934,
+      "std_dev": 0.0026638221423793155,
+      "is_novel": false
+    },
+    {
+      "rank": 5,
+      "index": 130,
+      "name": "Motion_2",
+      "importance": 0.03906810285529247,
+      "std_dev": 0.0033447520787585287,
+      "is_novel": false
+    },
+    {
+      "rank": 6,
+      "index": 139,
+      "name": "Motion_Entropy_2",
+      "importance": 0.037804792012551026,
+      "std_dev": 0.0029109483706786124,
+      "is_novel": true
+    },
+    {
+      "rank": 7,
+      "index": 140,
+      "name": "Motion_Entropy_3",
+      "importance": 0.03148823568785593,
+      "std_dev": 0.005929261184283443,
+      "is_novel": true
+    },
+    {
+      "rank": 8,
+      "index": 137,
+      "name": "Motion_Entropy_0",
+      "importance": 0.031228240110935484,
+      "std_dev": 0.008034979623477306,
+      "is_novel": true
+    },
+    {
+      "rank": 9,
+      "index": 138,
+      "name": "Motion_Entropy_1",
+      "importance": 0.030850848542452226,
+      "std_dev": 0.0025142167653546556,
+      "is_novel": true
+    },
+    {
+      "rank": 10,
+      "index": 132,
+      "name": "Motion_4",
+      "importance": 0.02473489266794949,
+      "std_dev": 0.0038008066877898237,
+      "is_novel": false
+    },
+    {
+      "rank": 11,
+      "index": 129,
+      "name": "Motion_1",
+      "importance": 0.017515077659490338,
+      "std_dev": 0.0023491067757570256,
+      "is_novel": false
+    },
+    {
+      "rank": 12,
+      "index": 13,
+      "name": "LSTM_13",
+      "importance": 0.017027639007065727,
+      "std_dev": 0.004471962238387482,
+      "is_novel": false
+    },
+    {
+      "rank": 13,
+      "index": 133,
+      "name": "Motion_5",
+      "importance": 0.016338321554480582,
+      "std_dev": 0.003988049871172379,
+      "is_novel": false
+    },
+    {
+      "rank": 14,
+      "index": 112,
+      "name": "LSTM_112",
+      "importance": 0.008915462479209262,
+      "std_dev": 0.0023815285944110455,
+      "is_novel": false
+    },
+    {
+      "rank": 15,
+      "index": 31,
+      "name": "LSTM_31",
+      "importance": 0.00852105620492001,
+      "std_dev": 0.002824018409506617,
+      "is_novel": false
+    },
+    {
+      "rank": 16,
+      "index": 91,
+      "name": "LSTM_91",
+      "importance": 0.0077555703675002115,
+      "std_dev": 0.001545577803002815,
+      "is_novel": false
+    },
+    {
+      "rank": 17,
+      "index": 95,
+      "name": "LSTM_95",
+      "importance": 0.0075988119593643905,
+      "std_dev": 0.0016267319452597604,
+      "is_novel": false
+    },
+    {
+      "rank": 18,
+      "index": 110,
+      "name": "LSTM_110",
+      "importance": 0.007186838148056667,
+      "std_dev": 0.001131008846843585,
+      "is_novel": false
+    },
+    {
+      "rank": 19,
+      "index": 23,
+      "name": "LSTM_23",
+      "importance": 0.006792037847974636,
+      "std_dev": 0.0011977128545680622,
+      "is_novel": false
+    },
+    {
+      "rank": 20,
+      "index": 81,
+      "name": "LSTM_81",
+      "importance": 0.006621051389117967,
+      "std_dev": 0.0014512102124815138,
+      "is_novel": false
+    },
+    {
+      "rank": 21,
+      "index": 65,
+      "name": "LSTM_65",
+      "importance": 0.006193023465389644,
+      "std_dev": 0.0011405584154743028,
+      "is_novel": false
+    },
+    {
+      "rank": 22,
+      "index": 48,
+      "name": "LSTM_48",
+      "importance": 0.005974495088864098,
+      "std_dev": 0.0009368300178659744,
+      "is_novel": false
+    },
+    {
+      "rank": 23,
+      "index": 24,
+      "name": "LSTM_24",
+      "importance": 0.005938156672728337,
+      "std_dev": 0.0008357228656513557,
+      "is_novel": false
+    },
+    {
+      "rank": 24,
+      "index": 51,
+      "name": "LSTM_51",
+      "importance": 0.0057292993222161515,
+      "std_dev": 0.001677150749968929,
+      "is_novel": false
+    },
+    {
+      "rank": 25,
+      "index": 26,
+      "name": "LSTM_26",
+      "importance": 0.00568582644652602,
+      "std_dev": 0.00148184430726132,
+      "is_novel": false
+    },
+    {
+      "rank": 26,
+      "index": 4,
+      "name": "LSTM_4",
+      "importance": 0.005380583905336888,
+      "std_dev": 0.0017988649451166259,
+      "is_novel": false
+    },
+    {
+      "rank": 27,
+      "index": 8,
+      "name": "LSTM_8",
+      "importance": 0.005341614036934765,
+      "std_dev": 0.0014044583666888034,
+      "is_novel": false
+    },
+    {
+      "rank": 28,
+      "index": 141,
+      "name": "Jerk_Analysis_0",
+      "importance": 0.005328786260058965,
+      "std_dev": 0.002021343222078073,
+      "is_novel": true
+    },
+    {
+      "rank": 29,
+      "index": 72,
+      "name": "LSTM_72",
+      "importance": 0.005294959970826998,
+      "std_dev": 0.0010784221350591434,
+      "is_novel": false
+    },
+    {
+      "rank": 30,
+      "index": 115,
+      "name": "LSTM_115",
+      "importance": 0.0049006440663921964,
+      "std_dev": 0.0007774638063428937,
+      "is_novel": false
+    }
+  ],
+  "novel_in_top_20": 4,
+  "novel_in_top_30": 5,
+  "feature_group_importance": {
+    "lstm": 0.46267400138831327,
+    "motion": 0.386888011542623,
+    "symmetry": 0.002870550286434428,
+    "entropy": 0.13137211635379464,
+    "jerk": 0.016195320428834665,
+    "total_novel": 0.15043798706906375
+  }
+}

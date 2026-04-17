@@ -1,0 +1,29 @@
+{
+  "accuracies": {
+    "baseline_136": 0.8648648648648649,
+    "full_146": 0.8618618618618619,
+    "improvement_absolute": -0.30030030030030463,
+    "improvement_relative": -34.72222222222272
+  },
+  "paired_analysis": {
+    "both_correct": 281,
+    "both_wrong": 39,
+    "baseline_correct_full_wrong": 7,
+    "baseline_wrong_full_correct": 6
+  },
+  "mcnemar_test": {
+    "chi_squared": 0.07692307692307693,
+    "p_value": 1.0,
+    "significant_at_0.05": false
+  },
+  "confidence_intervals": {
+    "baseline_ci": [
+      0.8239589886654827,
+      0.8974486458067118
+    ],
+    "full_ci": [
+      0.820656941002298,
+      0.8948131820750634
+    ]
+  }
+}

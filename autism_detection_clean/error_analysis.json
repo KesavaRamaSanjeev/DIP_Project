@@ -1,0 +1,399 @@
+{
+  "summary": {
+    "total_predictions": 333,
+    "total_errors": 45,
+    "accuracy": 0.8648648648648649,
+    "false_positives": 12,
+    "false_negatives": 33,
+    "sensitivity": 0.7642857142857142,
+    "specificity": 0.9378238341968912
+  },
+  "all_errors": [
+    {
+      "fold": 1,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.11205381122961457,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 1,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.3034778220921277,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 1,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.18251835575445127,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 1,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.3140562977513482,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 1,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.23867892278885994,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 1,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.21937523126583303,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 1,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.6087145582484519,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 1,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.6104751713777691,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.1726121039844201,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.45875950753634526,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.45660437105087764,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.4840437083847772,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.38936422756327704,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.29355583928585427,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.4334057318885968,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.4639795710742576,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.1997818318029953,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 2,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.6246305595073498,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 2,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.53162206221669,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 3,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.46891060679437724,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 3,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.1632914578387905,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 3,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.42450561739471027,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 3,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.5537126148411456,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.04253416487186108,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.15002840235883336,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.023557006213796087,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.17199514697498183,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.18734200633615902,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.3117367769607916,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.11603947382799075,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.1036755506530383,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.3454869786768862,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.16182676181544978,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 4,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.9160280465418984,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 5,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.23752594051655196,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 5,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.3271151990931107,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 5,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.1662493607489056,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 5,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.11878708869216273,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 5,
+      "actual": 1,
+      "predicted": 0,
+      "confidence": 0.22192955812011422,
+      "error_type": "False Negative"
+    },
+    {
+      "fold": 5,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.6794591820738365,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 5,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.7664056546793279,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 5,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.6504976224055544,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 5,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.5647822625506873,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 5,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.5670442752907866,
+      "error_type": "False Positive"
+    },
+    {
+      "fold": 5,
+      "actual": 0,
+      "predicted": 1,
+      "confidence": 0.5325107163985734,
+      "error_type": "False Positive"
+    }
+  ],
+  "confidence_stats": {
+    "mean_error_confidence": 0.35712638127720486,
+    "std_error_confidence": 0.20880197699560085,
+    "mean_correct_confidence": 0.40830662720373945,
+    "mean_incorrect_confidence": 0.35712638127720486,
+    "confidence_separation": 0.051180245926534584
+  },
+  "confusion_matrices": {
+    "fold_wise": [
+      [
+        [
+          37,
+          2
+        ],
+        [
+          6,
+          22
+        ]
+      ],
+      [
+        [
+          37,
+          2
+        ],
+        [
+          9,
+          19
+        ]
+      ],
+      [
+        [
+          38,
+          1
+        ],
+        [
+          3,
+          25
+        ]
+      ],
+      [
+        [
+          37,
+          1
+        ],
+        [
+          10,
+          18
+        ]
+      ],
+      [
+        [
+          32,
+          6
+        ],
+        [
+          5,
+          23
+        ]
+      ]
+    ],
+    "aggregate": [
+      [
+        181,
+        12
+      ],
+      [
+        33,
+        107
+      ]
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+# Large data files
+*.npy
+*.npz
+*.h5
+*.pkl
+*.pickle
+
+# Video files
+*.avi
+*.mp4
+*.mov
+*.mkv
+
+# Model checkpoints
+*.pth
+*.pt
+backup_*
+best_model_*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large data directories
+cleanest/

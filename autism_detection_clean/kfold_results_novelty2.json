@@ -1,0 +1,52 @@
+{
+  "novelties": "Novelty 1 (Symmetry) + Novelty 2 (Motion Entropy)",
+  "features": 141,
+  "baseline_features": 136,
+  "new_features": 5,
+  "baseline_accuracy": 90.08,
+  "novelty1_accuracy": null,
+  "folds": {
+    "fold_1": {
+      "accuracy": 0.8656716417910447,
+      "precision": 0.88,
+      "recall": 0.7857142857142857,
+      "f1": 0.8301886792452831
+    },
+    "fold_2": {
+      "accuracy": 0.8571428571428571,
+      "precision": 0.9111111111111111,
+      "recall": 0.7321428571428571,
+      "f1": 0.8118811881188119
+    },
+    "fold_3": {
+      "accuracy": 0.8872180451127819,
+      "precision": 0.8867924528301887,
+      "recall": 0.8392857142857143,
+      "f1": 0.8623853211009175
+    },
+    "fold_4": {
+      "accuracy": 0.9323308270676691,
+      "precision": 0.9607843137254902,
+      "recall": 0.875,
+      "f1": 0.9158878504672897
+    },
+    "fold_5": {
+      "accuracy": 0.8947368421052632,
+      "precision": 0.9772727272727273,
+      "recall": 0.7678571428571429,
+      "f1": 0.86
+    }
+  },
+  "summary": {
+    "mean_accuracy": 0.887420042643923,
+    "std_accuracy": 0.026306865326145127,
+    "fold_accuracies": [
+      0.8656716417910447,
+      0.8571428571428571,
+      0.8872180451127819,
+      0.9323308270676691,
+      0.8947368421052632
+    ],
+    "improvement_vs_baseline": -1.3379957356077
+  }
+}
