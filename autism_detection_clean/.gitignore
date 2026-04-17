@@ -2,8 +2,8 @@
 *.npy
 *.npz
 *.h5
-*.pkl
-*.pickle
+
+
 
 # Video files
 *.avi
